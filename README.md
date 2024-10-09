@@ -1,6 +1,9 @@
 # ATtiny-switch
 Double switch RC configurable sur une voie RC.
 
+Attiny 85 8Mhz horloge interne
+
+Il est préférable de faire un réglage OSCCAL (voir le projet ArduinoAsISP modifié)
 
 ![IMG_20221130_110917](https://github.com/user-attachments/assets/08481ea7-8ff6-4a25-a942-b9151ee0352e)
 
